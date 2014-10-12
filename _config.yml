@@ -5,7 +5,7 @@ baseurl: http://postwachstum.github.io
 
 # Site live URL
 #url: http://127.0.0.1:4000
-url: http://postwachstum.github.io/
+url: http://postwachstum.github.io
 
 # Localhost 
 #url: http://192.168.0.102:4000
