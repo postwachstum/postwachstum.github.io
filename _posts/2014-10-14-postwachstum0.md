@@ -9,7 +9,7 @@ categories:
 permalink: begruessung
 ---
 
-Euch wird man heute oder demnächst dieses Lehrbuch von Gregory Mankiw empfehlen, des ehemaligen Beraters von George W. Bush. Da steht zwar "Grundzüge der VWL" drauf, aber eigentlich müsste es "Neoklassik" oder - noch ehrlicher  - "Neoliberalismus" heißen.
+Euch wird man heute oder demnächst dieses Lehrbuch von [Gregory Mankiw](http://harvardpolitics.com/harvard/an-open-letter-to-greg-mankiw/) empfehlen, des ehemaligen Beraters von George W. Bush. Da steht zwar "Grundzüge der VWL" drauf, aber eigentlich müsste es "Neoklassik" oder - noch ehrlicher  - "Neoliberalismus" heißen.
 
 Die FAZ schreibt zu diesem Thema:
 **"Die Lehrbücher der Ökonomie von heute sind die Drehbücher der nächsten Krise."**
