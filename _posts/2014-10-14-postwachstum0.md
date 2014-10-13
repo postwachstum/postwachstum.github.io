@@ -40,7 +40,11 @@ Wer seine Karriere hingegen krisensicher gestalten möchte, sollte mehr als die 
 
 Ich bedanke mich für die Gelegenheit hier zu sprechen und wünsche Euch jetzt eine interessante Vorlesung und ein möglichst erkenntnisreiches Studium.
 
+___
 
+##### Weitere Informationen (inkl. Video) folgen in Kürze.
+
+___
 
 ## Weiterführende Links
 
