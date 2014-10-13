@@ -2,7 +2,7 @@
 layout: post
 title:  "Informelle Begrüßung "
 date:   2014-10-14 13:00:00
-description: "Die Lehrbücher der Ökonomie von heute sind die Drehbücher der nächsten Krise."
+description: "\"Die Lehrbücher der Ökonomie von heute sind die Drehbücher der nächsten Krise.\""
 categories:
 - aktion
 - uni
