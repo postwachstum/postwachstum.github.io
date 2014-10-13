@@ -10,7 +10,7 @@ url: http://postwachstum.github.io
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Postwachstum
+  name: AG Postwachstum
   # Little description about your site
   description: kritisches Nachdenken über Ökonomik und Ökonomie 
   meta_description: Postwachstum degrowth Dresden # appears in doc head meta (for Google) and in feed.xml site description.
