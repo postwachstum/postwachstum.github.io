@@ -19,9 +19,9 @@ Die Neoklassik ist nur eine von vielen Theorien, aber sie dominiert seit Jahrzeh
 
 Dazu zwei Beispiele:
 
- 1. In der Freihandelstheorie  von Ricardo wird auf Basis völlig realitätsferner Annahmen die Schlussfolgerung gezogen, dass globaler Wettbewerb und global freier Handel am Ende gut für alle seien und deshalb ein per se erstrebenswertes Ziel. Auf dieser akademischen Grundlage werden dann Freihandelsabkommen wie das TTIP legitimiert, die zu einer Einschränkung bei Verbraucherschutz und Selbstbestimmung führen.
+ * In der Freihandelstheorie  von Ricardo wird auf Basis völlig realitätsferner Annahmen die Schlussfolgerung gezogen, dass globaler Wettbewerb und global freier Handel am Ende gut für alle seien und deshalb ein per se erstrebenswertes Ziel. Auf dieser akademischen Grundlage werden dann Freihandelsabkommen wie das TTIP legitimiert, die zu einer Einschränkung bei Verbraucherschutz und Selbstbestimmung führen.
 
- 2. Die Ideologie des exponentiellen Wachstums ist das Patentrezept der Politikberatung. In der Technik dagegen ist exponetielles Wachstum das Paradebeispiel von Instabilität und in der Medizin nennt man sowas Krebs. Um es mit den Worten des US-amerikanischen Ökonomen Boulding ausdrücken:
+* Die Ideologie des exponentiellen Wachstums ist das Patentrezept der Politikberatung. In der Technik dagegen ist exponetielles Wachstum das Paradebeispiel von Instabilität und in der Medizin nennt man sowas Krebs. Um es mit den Worten des US-amerikanischen Ökonomen Boulding ausdrücken:
 Jeder, der an unendliches Wachstum auf einem endlichen Planeten glaubt, ist entweder verrückt oder Ökonom.
 
 Es gäbe noch viele weitere kritische Fragen:
