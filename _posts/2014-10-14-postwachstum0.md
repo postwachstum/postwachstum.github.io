@@ -22,12 +22,12 @@ In der ersten Vorlesung wurde Euch das internationale Standard-Lehrbuch von
 Die Frankfuter Allgemeine Zeitung schreibt zu diesem Thema: Die Lehrbücher der Ökonomie von heute sind die Drehbücher der nächsten
 Krise.
 
-Hallo, ich heiße Carsten, ich bin Promotionsstudent im Ingenieurbereich und ich spreche hier im Namen der AG Postwachstum und der Hochschulgruppe Plurale Ökonomik Dresden. 
+Hallo, ich heiße Carsten und ich spreche hier im Namen der AG Postwachstum und der Hochschulgruppe Plurale Ökonomik Dresden. 
 
 Die Neoklassik ist nur eine von vielen Theorien, aber sie dominiert seit Jahrzehnten die Unis und die Politik. Diese Mainstream-Ökonomik beansprucht für sich zu definieren was die ökonomische Wahrheit ist. Obwohl die Theorie scheinbar objektiv und frei von Werturteilen daherkommt, begründet sie letztlich ein Wertesystem zur Rechtfertigung von Gier und zerstörerischer Konkurrenz. Zweifel oder Gegenargumente werden an den Rand gedrängt. Offensichtliche Widersprüche zur Realität werden ignoriert.
 
 Dazu zwei Beispiele:
-1. In der Freihandelstheorie von Ricardo wird auf Basis völlig realitätsferner Annahmen die Schlussfolgerung gezogen, dass globaler Wettbewerb und global freier Handel am Ende gut für alle seien und deshalb ein per se erstrebenswertes Ziel. Auf dieser akademischen Grundlage werden dann Freihandelsabkommen wie das TTIP legitimiert, die zu einer Einschränkung bei Verbraucherschutz und Selbstbestimmung führen.
+1. In der Freihandelstheorie von Ricardo wird auf Basis völlig realitätsferner Annahmen die Schlussfolgerung gezogen, dass globaler Wettbewerb und global freier Handel am Ende immer gut für alle seien und deshalb ein per se erstrebenswertes Ziel. Auf dieser akademischen Grundlage werden dann Freihandelsabkommen wie das sogenannte TTIP legitimiert, die zu einer Einschränkung bei Verbraucherschutz und Selbstbestimmung führen.
 
 2. Die Ideologie des exponentiellen Wachstums ist das Patentrezept der Politikberatung. In der Technik ist exponentielles Wachstum das Paradebeispiel von Instabilität und in der Medizin nennt man sowas Krebs. Um es mit den Worten des US-amerikanischen Ökonomen Boulding ausdrücken: Jeder, der an unendliches Wachstum auf einem endlichen Planeten glaubt, ist entweder verrückt oder Ökonom.
 
@@ -36,9 +36,9 @@ Welchen Interessen dient das herrschende Verständnis von Ökonomie?
 Welchen Einfluss hat die Wirtschaft auf die Politik?
 Und verträgt sich das alles noch mit Demokratie und Nachhaltigkeit?
 
-Wissenschaft lebt vom kritischen Denken, vom Zweifel und vom Hinterfragen! Wer Interesse hat, über den Tellerrand der neoklassischen Weltsicht hinaus zu schauen, der kann nach der Vorlesung zu uns an den Stand kommen oder auf unsere Websiten schauen.
+Wissenschaft lebt vom kritischen Denken, vom Zweifel und vom Hinterfragen! Wer Interesse hat, über den Tellerrand der neoklassischen Weltsicht hinauszuschauen, der kann nach der Vorlesung zu uns an den Stand kommen oder unsere Webseiten besuchen.
 
-Wer einfach nur schnell Karriere machen will, sollte schön brav das Lehrbuch auswendig lernen, nebenbei an der Börse auf Lebensmittel spekulieren, in Streubomben investieren und hoffen dass es bis zur nächsten Krise noch ein paar Jahre dauert. Wer seine Karriere hingegen krisensicher gestalten möchte, sollte vielleicht mehr als die Mainstream-Neoklassik kennen. Das Netzwerk ["Plurale Ökonomik"](http://pluraleoekonomikdresden.wordpress.com/)  wäre hierfür ein Anlaufpunkt.
+Wer einfach nur schnell Karriere machen will, sollte schön brav das Lehrbuch auswendig lernen, nebenbei an der Börse auf Lebensmittel spekulieren, in Streubomben investieren und hoffen, dass es bis zur nächsten Krise noch ein paar Jahre dauert. Wer seine Karriere hingegen krisensicher gestalten möchte, sollte vielleicht mehr als nur die Mainstream-Neoklassik kennen. Das Netzwerk ["Plurale Ökonomik"](http://pluraleoekonomikdresden.wordpress.com/)  wäre hierfür ein Anlaufpunkt.
 
 Ich bedanke mich für die Gelegenheit hier zu sprechen und wünsche Euch jetzt eine interessante Vorlesung und ein möglichst erkenntnisreiches Studium.
 
