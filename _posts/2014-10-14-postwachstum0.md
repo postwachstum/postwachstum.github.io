@@ -12,23 +12,23 @@ permalink: begruessung
 
 Obwohl die Volkswirtschaftslehre international von vielen Seiten in der Kritik steht, bekommen die Studierenden von diesen Kontroversen oft relativ wenig mit, da die Lehre weitgehend unverändert fortgesetzt wird. Um auch die Kritik, den Diskurs um Pluralismus, Vielfalt und Methodik an die Studenten heranzutragen, haben wir eine informelle Begrüßung für die VWL-Vorlesung der Erstsemester vorgetragen.
 
-[Informelle Begrüßung: Video] (https://www.youtube.com/watch?v=ifwoEv3pQfo)
+[Video der Aktion](https://www.youtube.com/watch?v=ifwoEv3pQfo)
 
 ___
 
-##Vortragstext
+## Vortragstext
 
 In der ersten Vorlesung wurde Euch das internationale Standard-Lehrbuch von
 [Gregory Mankiw](http://harvardpolitics.com/harvard/an-open-letter-to-greg-mankiw/) empfohlen, des ehemaligen Beraters von George W. Bush. Da steht zwar "Grundzüge der VWL" drauf, aber eigentlich müsste es "Neoklassik" oder – noch ehrlicher – "Neoliberalismus" heißen.
 
-Die Frankfuter Allgemeine Zeitung schreibt zu diesem Thema: Die Lehrbücher der Ökonomie von heute sind die Drehbücher der nächsten
-Krise.
+Die Frankfuter Allgemeine Zeitung schreibt zu diesem Thema: Die Lehrbücher der Ökonomie von heute sind die Drehbücher der nächsten Krise.
 
 Hallo, ich heiße Carsten und ich spreche hier im Namen der AG Postwachstum und der Hochschulgruppe Plurale Ökonomik Dresden. 
 
 Die Neoklassik ist nur eine von vielen Theorien, aber sie dominiert seit Jahrzehnten die Unis und die Politik. Diese Mainstream-Ökonomik beansprucht für sich zu definieren was die ökonomische Wahrheit ist. Obwohl die Theorie scheinbar objektiv und frei von Werturteilen daherkommt, begründet sie letztlich ein Wertesystem zur Rechtfertigung von Gier und zerstörerischer Konkurrenz. Zweifel oder Gegenargumente werden an den Rand gedrängt. Offensichtliche Widersprüche zur Realität werden ignoriert.
 
 Dazu zwei Beispiele:
+
 1. In der Freihandelstheorie von Ricardo wird auf Basis völlig realitätsferner Annahmen die Schlussfolgerung gezogen, dass globaler Wettbewerb und global freier Handel am Ende immer gut für alle seien und deshalb ein per se erstrebenswertes Ziel. Auf dieser akademischen Grundlage werden dann Freihandelsabkommen wie das sogenannte TTIP legitimiert, die zu einer Einschränkung bei Verbraucherschutz und Selbstbestimmung führen.
 
 2. Die Ideologie des exponentiellen Wachstums ist das Patentrezept der Politikberatung. In der Technik ist exponentielles Wachstum das Paradebeispiel von Instabilität und in der Medizin nennt man sowas Krebs. Um es mit den Worten des US-amerikanischen Ökonomen Boulding ausdrücken: Jeder, der an unendliches Wachstum auf einem endlichen Planeten glaubt, ist entweder verrückt oder Ökonom.
@@ -45,7 +45,7 @@ Wer einfach nur schnell Karriere machen will, sollte schön brav das Lehrbuch au
 Ich bedanke mich für die Gelegenheit hier zu sprechen und wünsche Euch jetzt eine interessante Vorlesung und ein möglichst erkenntnisreiches Studium.
 
 
-[Video] (https://www.youtube.com/watch?v=ifwoEv3pQfo)
+[Video](https://www.youtube.com/watch?v=ifwoEv3pQfo)
 
 ___
 
