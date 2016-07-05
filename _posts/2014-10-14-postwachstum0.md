@@ -48,7 +48,7 @@ Ich bedanke mich für die Gelegenheit hier zu sprechen und wünsche Euch jetzt e
 [Video](https://www.youtube.com/watch?v=ifwoEv3pQfo)
 
 <br>
-Stand Juli 2016: Die AG Postwachstum und die Hochschulgruppe Plurale Ökonomik an der TU Dresden sind derzeit auf Grund von Personalmangel nicht aktiv. Vermutlich gibt es aber für mindestens eine der beiden Gruppen genügend interessierte. Falls Du Lust hast, demnächst (z.B. ab kommendem Semester) Dich kritisch mit den Mainstream-Wirtschaftswissenschaften und der entsprechenden Lehre auseinanderzusetzen, schreib am besten eine Mail: *postwachstum-dresden <ät> posteo.de*
+**Stand Juli 2016**: Die AG Postwachstum und die Hochschulgruppe Plurale Ökonomik an der TU Dresden sind derzeit auf Grund von Personalmangel nicht aktiv. Vermutlich gibt es aber für mindestens eine der beiden Gruppen genügend interessierte. Falls Du Lust hast, demnächst (z.B. ab kommendem Semester) Dich kritisch mit den Mainstream-Wirtschaftswissenschaften und der entsprechenden Lehre auseinanderzusetzen, schreib am besten eine Mail: postwachstum-dresden <ät> posteo.de .
 
 ___
 
