@@ -12,6 +12,8 @@ permalink: begruessung
 
 Obwohl die Volkswirtschaftslehre international von vielen Seiten in der Kritik steht, bekommen die Studierenden von diesen Kontroversen oft relativ wenig mit, da die Lehre weitgehend unverändert fortgesetzt wird. Um auch die Kritik, den Diskurs um Pluralismus, Vielfalt und Methodik an die Studenten heranzutragen, haben wir eine informelle Begrüßung für die VWL-Vorlesung der Erstsemester vorgetragen.
 
+[Informelle Begrüßung: Video] (https://www.youtube.com/watch?v=ifwoEv3pQfo)
+
 ___
 
 ##Vortragstext
@@ -43,7 +45,7 @@ Wer einfach nur schnell Karriere machen will, sollte schön brav das Lehrbuch au
 Ich bedanke mich für die Gelegenheit hier zu sprechen und wünsche Euch jetzt eine interessante Vorlesung und ein möglichst erkenntnisreiches Studium.
 
 
-##### Weitere Informationen (evtl. inkl. Video) folgen in Kürze.
+[Video] (https://www.youtube.com/watch?v=ifwoEv3pQfo)
 
 ___
 
