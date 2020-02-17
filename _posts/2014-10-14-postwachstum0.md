@@ -12,7 +12,10 @@ permalink: begruessung
 
 Obwohl die Volkswirtschaftslehre international von vielen Seiten in der Kritik steht, bekommen die Studierenden von diesen Kontroversen oft relativ wenig mit, da die Lehre weitgehend unverändert fortgesetzt wird. Um auch die Kritik, den Diskurs um Pluralismus, Vielfalt und Methodik an die Studenten heranzutragen, haben wir eine informelle Begrüßung für die VWL-Vorlesung der Erstsemester vorgetragen.
 
-[Video der Aktion](https://www.youtube.com/watch?v=ifwoEv3pQfo)
+[Video der Aktion](https://www.youtube.com/watch?v=SDIuw80jtvI)
+
+[<img src="img/youtube_screenshot.jpg" alt="youtube vorschau" width="356" height="200">](https://www.youtube.com/watch?v=SDIuw80jtvI)
+
 
 ___
 
@@ -23,9 +26,9 @@ In der ersten Vorlesung wurde Euch das internationale Standard-Lehrbuch von
 
 Die Frankfuter Allgemeine Zeitung schreibt zu diesem Thema: Die Lehrbücher der Ökonomie von heute sind die Drehbücher der nächsten Krise.
 
-Hallo, ich heiße Carsten und ich spreche hier im Namen der AG Postwachstum und der Hochschulgruppe Plurale Ökonomik Dresden. 
+Hallo, ich heiße Carsten und ich spreche hier im Namen der AG Postwachstum und der Hochschulgruppe Plurale Ökonomik Dresden.
 
-Die Neoklassik ist nur eine von vielen Theorien, aber sie dominiert seit Jahrzehnten die Unis und die Politik. Diese Mainstream-Ökonomik beansprucht für sich zu definieren was die ökonomische Wahrheit ist. Obwohl die Theorie scheinbar objektiv und frei von Werturteilen daherkommt, begründet sie letztlich ein Wertesystem zur Rechtfertigung von Gier und zerstörerischer Konkurrenz. Zweifel oder Gegenargumente werden an den Rand gedrängt. Offensichtliche Widersprüche zur Realität werden ignoriert.
+Die Neoklassik ist nur eine von vielen Theorien, aber sie dominiert seit Jahrzehnten die Unis und die Politik. Diese Mainstream-Ökonomik beansprucht für sich zu definieren, was die ökonomische Wahrheit ist. Obwohl die Theorie scheinbar objektiv und frei von Werturteilen daherkommt, begründet sie letztlich ein Wertesystem zur Rechtfertigung von Gier und zerstörerischer Konkurrenz. Zweifel oder Gegenargumente werden an den Rand gedrängt. Offensichtliche Widersprüche zur Realität werden ignoriert.
 
 Dazu zwei Beispiele:
 
@@ -45,7 +48,12 @@ Wer einfach nur schnell Karriere machen will, sollte schön brav das Lehrbuch au
 Ich bedanke mich für die Gelegenheit hier zu sprechen und wünsche Euch jetzt eine interessante Vorlesung und ein möglichst erkenntnisreiches Studium.
 
 
-[Video](https://www.youtube.com/watch?v=ifwoEv3pQfo)
+[Video der Aktion](https://www.youtube.com/watch?v=SDIuw80jtvI)
+
+[<img src="img/youtube_screenshot.jpg" alt="youtube vorschau" width="356" height="200">](https://www.youtube.com/watch?v=SDIuw80jtvI)
+
+
+
 
 <br>
 **Stand Juli 2016**: Die AG Postwachstum und die Hochschulgruppe Plurale Ökonomik an der TU Dresden sind derzeit auf Grund von Personalmangel nicht aktiv. Vermutlich gibt es aber für mindestens eine der beiden Gruppen genügend interessierte. Falls Du Lust hast, demnächst (z.B. ab kommendem Semester) Dich kritisch mit den Mainstream-Wirtschaftswissenschaften und der entsprechenden Lehre auseinanderzusetzen, schreib am besten eine Mail: postwachstum-dresden <ät> posteo.de .
