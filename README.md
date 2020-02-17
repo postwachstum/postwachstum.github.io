@@ -1,4 +1,4 @@
 postwachstum.github.io
 ======================
 
-website: http://postwachstum.github.io
+website: https://postwachstum.github.io

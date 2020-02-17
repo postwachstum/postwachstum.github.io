@@ -12,9 +12,9 @@ permalink: begruessung
 
 Obwohl die Volkswirtschaftslehre international von vielen Seiten in der Kritik steht, bekommen die Studierenden von diesen Kontroversen oft relativ wenig mit, da die Lehre weitgehend unverändert fortgesetzt wird. Um auch die Kritik, den Diskurs um Pluralismus, Vielfalt und Methodik an die Studenten heranzutragen, haben wir eine informelle Begrüßung für die VWL-Vorlesung der Erstsemester vorgetragen.
 
-[Video der Aktion](https://www.youtube.com/watch?v=SDIuw80jtvI)
+[Video der Aktion](http://www.viewpure.com/SDIuw80jtvI)
 
-[<img src="/assets/youtube_screenshot.jpg" alt="youtube vorschau" width="356" height="200">](https://www.youtube.com/watch?v=SDIuw80jtvI)
+[<img src="/assets/youtube_screenshot.jpg" alt="youtube vorschau" width="356" height="200">](http://www.viewpure.com/SDIuw80jtvI)
 
 
 ___
@@ -48,9 +48,9 @@ Wer einfach nur schnell Karriere machen will, sollte schön brav das Lehrbuch au
 Ich bedanke mich für die Gelegenheit hier zu sprechen und wünsche Euch jetzt eine interessante Vorlesung und ein möglichst erkenntnisreiches Studium.
 
 
-[Video der Aktion](https://www.youtube.com/watch?v=SDIuw80jtvI)
+[Video der Aktion](http://www.viewpure.com/SDIuw80jtvI)
 
-[<img src="/assets/youtube_screenshot.jpg" alt="youtube vorschau" width="356" height="200">](https://www.youtube.com/watch?v=SDIuw80jtvI)
+[<img src="/assets/youtube_screenshot.jpg" alt="youtube vorschau" width="356" height="200">](http://www.viewpure.com/SDIuw80jtvI)
 
 
 
@@ -63,8 +63,7 @@ ___
 ## Links zum Thema
 
 ##### [&rarr; Netzwerk Plurale Ökonomik](https://www.plurale-oekonomik.de/)
- * [Netzwerk Plurale Ökonomik Dresden](http://pluraleoekonomikdresden.wordpress.com/)
- * [Plattform Nachhaltig Wirtschaften: Schluss mit Einseitigkeit](http://www.nachhaltigwirtschaften.net/scripts/basics/eco-world/wirtschaft/basics.prg?session=bc6add5b54314367_345794&a_no=8331&r_index=4.1.2)
+ * [Netzwerk Plurale Ökonomik Dresden](https://plurale-oekonomie-dresden.jimdofree.com/)
  * [Offener Brief an die Lehrenden](https://www.plurale-oekonomik.de/projekte/offener-brief/)
  * [Internationaler studentischer Aufruf für eine Plurale Ökonomik](http://www.isipe.net/home-de)
 
