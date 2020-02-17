@@ -1,47 +1,47 @@
-# Harmony Jekyll theme general configurations 
+# Harmony Jekyll theme general configurations
 
 # Base URL
-baseurl: http://postwachstum.github.io
+baseurl: //postwachstum.github.io
 
 # Site live URL
 #url: http://127.0.0.1:4000
-url: http://postwachstum.github.io
+url: //postwachstum.github.io
 
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
   name: AG Postwachstum
   # Little description about your site
-  description: kritisches Nachdenken über Ökonomik und Ökonomie 
+  description: kritisches Nachdenken über Ökonomik und Ökonomie
   meta_description: Postwachstum degrowth Dresden # appears in doc head meta (for Google) and in feed.xml site description.
   basetheme: theme-base-02 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Post Wachstum
     email: postwachstum-dresden@posteo.de
-    url: http://postwachstum.github.io
+    url: //postwachstum.github.io
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: 
+  google_analytics_key:
 
   # Profile links, leave blank to ignore
-  social: 
-    github: 
-    twitter: 
-    facebook: 
-    gplus: 
-    dribble: 
-    pinterest: 
+  social:
+    github:
+    twitter:
+    facebook:
+    gplus:
+    dribble:
+    pinterest:
   # Toggle disclaimer in footer
   show_disclaimer: true
 
-# Conversion / Build settings 
+# Conversion / Build settings
 markdown:    kramdown
 highlighter: pygments # this is how you put pygments config in jekyll 2.0 instead of pygments: true
 
 # Permalinks
 permalink:        pretty
 
-exclude: 
+exclude:
   - CNAME
   - Gemfile
   - Rakefile
