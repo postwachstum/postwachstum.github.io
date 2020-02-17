@@ -14,7 +14,7 @@ Obwohl die Volkswirtschaftslehre international von vielen Seiten in der Kritik s
 
 [Video der Aktion](https://www.youtube.com/watch?v=SDIuw80jtvI)
 
-[<img src="img/youtube_screenshot.jpg" alt="youtube vorschau" width="356" height="200">](https://www.youtube.com/watch?v=SDIuw80jtvI)
+[<img src="/assets/youtube_screenshot.jpg" alt="youtube vorschau" width="356" height="200">](https://www.youtube.com/watch?v=SDIuw80jtvI)
 
 
 ___
